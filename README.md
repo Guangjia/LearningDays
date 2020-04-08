@@ -3,3 +3,6 @@ https://codelabs.developers.google.com/codelabs/android-training-create-recycler
 
 ## Git learning
 https://www.atlassian.com/git/tutorials/git-bash
+
+#androidx release version
+https://developer.android.com/jetpack/androidx/versions
